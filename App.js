@@ -6,9 +6,9 @@
 import * as React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import Home from "./screens/Home";
-import Profile from "./screens/Profile";
-import FollowInfo from "./screens/FollowInfo";
+import Home from "./Screens/Home";
+import Profile from "./Screens/Profile";
+import FollowInfo from "./Screens/FollowInfo";
 
 const Stack = createNativeStackNavigator();
 
